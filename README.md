@@ -1,4 +1,4 @@
-https://github.com/gitwithalmas/gitwithalmas/assets/159616162/1f1908ec-a273-41be-aefe-d31a89c0de9d
+![github-cat](https://github.com/gitwithalmas/gitwithalmas/assets/159616162/06a84ef7-6513-4272-a9f1-904d28dd10ef)
 - 👋 Hi, I’m @gitwithalmas 😊
 - 👀 I’m interested in ☁☁ dvops and clouds
 - 🌱 I’m currently learning ... Devops AWS,
@@ -8,7 +8,7 @@ https://github.com/gitwithalmas/gitwithalmas/assets/159616162/1f1908ec-a273-41be
   
 
 
-https://github.com/gitwithalmas/gitwithalmas/assets/159616162/72c93b04-43a8-485f-af0f-2d0fc0c24e15
+
 
 
 
